@@ -1,0 +1,8 @@
+#Para ignorar el archivo llamado quinto.py
+quinto.py
+
+#Para ignorar archivos de terminacion "~"
+*~
+
+#Para ignorar carpeta
+Pruebas/
